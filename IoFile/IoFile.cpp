@@ -28,9 +28,9 @@ int main() {
 		{
 			cout << baris << '\n';
 		}
+		infile.close();
 	}
-	infile.close();
-
-
 
 }
+
+
